@@ -11,3 +11,6 @@ php -S 127.0.0.1:9090
 ```
 
 Instance should be here ```http://127.0.0.1:9090```
+
+## Disclaimer
+Do not use this as an example on how to prevent XSS it is completely false :-)
